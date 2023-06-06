@@ -1,4 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+GitHub+~+" alt="Typing SVG" /></a>
+
+🔭 I'm currently studying information engineering.
+🌱 I'm currently learning: R, Python, C, C++, C#, HTML, CSS, Javascript, Arduino
+📫 How to reach me : 109021373@live.asia.edu.tw
+
+
 
 <!--
 **bcshih-2023/bcshih-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

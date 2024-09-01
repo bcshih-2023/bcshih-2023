@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+My+GitHub+~;I'm+Bertram.;Attend+National Taipei University of Technology." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+My+GitHub+~;I'm+Bertram.;Attend+National Taipei University of Technology." alt="Typing SVG" /></a>
 
-🔭 I'm currently studying Master's Degree in Information Security  at National Taipei University of Technology. (2024.08 -)   <br>
+🔭 I'm currently studying Master's Degree in Information Security  at National Taipei University of Technology. <br>
 🌱 I'm currently learning: Python, C, C++, C#, HTML, CSS, Javascript, Arduino  <br>
 📫 How to reach me : 113c53004@cc.ntut.edu.tw <br>
 ⚡ GMail : bcshih0311@gmail.com <br>
